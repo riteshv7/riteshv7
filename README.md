@@ -13,7 +13,7 @@
 class DataAnalyst:
     def __init__(self):
         self.name = "Ritesh Verma"
-        self.role = "Data Analyst | Data Engineer | AI Tinkere"
+        self.role = "Data Analyst | Data Engineer | AI Tinkerer"
         self.experience = "3+ Years"
         self.location = "Syracuse, NY"
         
@@ -116,44 +116,143 @@ class DataAnalyst:
 
 ---
 
-## 🎯 Key Achievements & Featured Projects
+## 🚀 Open Source Projects
 
-<div align="center">
-
+### 🧠 Machine Learning & AI
 <table>
   <tr>
-    <td align="center" width="25%" style="border: none;">
-      <img src="https://img.icons8.com/3d-fluency/94/brainstorm_cells.png" width="64" height="64" />
+    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/brain.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/Fake-News-Detection-using-Recurrent-Neural-Networks-RNN-"><b>Fake News RNN Detection</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/Fake-News-Detection-using-Recurrent-Neural-Networks-RNN-?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
       <br />
-      <a href="https://github.com/riteshv7/Fake-News-Detection-using-Recurrent-Neural-Networks-RNN-"><b>Fake News RNN</b></a>
-      <br />
-      <sub><i>Deep Learning & NLP</i></sub>
+      Deep learning model utilizing Recurrent Neural Networks (RNN) and NLP to analyze and classify fake news articles.
     </td>
-    <td align="center" width="25%" style="border: none;">
-      <img src="https://img.icons8.com/3d-fluency/94/workflow.png" width="64" height="64" />
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/scan-stock.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/Optical-Character-Recognition-and-Text-to-Audio-Converter"><b>OCR & Text-to-Audio Converter</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/Optical-Character-Recognition-and-Text-to-Audio-Converter?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
       <br />
-      <a href="https://github.com/riteshv7/ETL-Pipeline-for-Analysis-of-Tokyo-Olympic-Data"><b>ETL Tokyo Olympics</b></a>
-      <br />
-      <sub><i>Data Engineering</i></sub>
+      Computer vision application that extracts text from physical documents using OCR and converts it into accessible audio speech.
     </td>
-    <td align="center" width="25%" style="border: none;">
-      <img src="https://img.icons8.com/3d-fluency/94/combo-chart.png" width="64" height="64" />
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/baseball.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/Time-Series-Analysis-and-Predictive-Modeling-for-Baseball-Analytics-"><b>Baseball Analytics & Prediction</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/Time-Series-Analysis-and-Predictive-Modeling-for-Baseball-Analytics-?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
       <br />
-      <a href="https://github.com/riteshv7/Airbnb-Analytics-Dashboard-using-Tableau-"><b>Airbnb Tableau</b></a>
-      <br />
-      <sub><i>BI & Visualization</i></sub>
-    </td>
-    <td align="center" width="25%" style="border: none;">
-      <img src="https://img.icons8.com/3d-fluency/94/movie-projector.png" width="64" height="64" />
-      <br />
-      <a href="https://github.com/riteshv7/Netflix-Movies-and-TV-shows-Analysis"><b>Netflix Analysis</b></a>
-      <br />
-      <sub><i>Exploratory Analysis</i></sub>
+      Time series forecasting and predictive models applied to baseball metrics to predict player and team performances.
     </td>
   </tr>
 </table>
 
-</div>
+### ⚙️ Data Engineering & Big Data
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/database.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/ETL-Pipeline-for-Analysis-of-Tokyo-Olympic-Data"><b>ETL Pipeline: Tokyo Olympics</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/ETL-Pipeline-for-Analysis-of-Tokyo-Olympic-Data?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      End-to-end data engineering pipeline to extract, transform, and load historical Olympic datasets for structured analytics.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/data-configuration.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/Online-Shopper-Behavior-Analysis-and-Prediction-using-PySpark"><b>E-Commerce Analytics with PySpark</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/Online-Shopper-Behavior-Analysis-and-Prediction-using-PySpark?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      Large-scale shopper behavior analysis and predictive modeling using Apache PySpark to analyze high-volume customer behavior.
+    </td>
+  </tr>
+</table>
+
+### 📊 Data Science & BI
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/combo-chart.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/Airbnb-Analytics-Dashboard-using-Tableau-"><b>Airbnb Tableau Dashboard</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/Airbnb-Analytics-Dashboard-using-Tableau-?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      Interactive business intelligence dashboard presenting deep insights into Airbnb booking behaviors, host metrics, and price trends.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/speech-bubble.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/Yelp-Review-Analytics-Audience-Segmentation-"><b>Yelp Review Analytics & Segmentation</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/Yelp-Review-Analytics-Audience-Segmentation-?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      Audience segmentation and sentiment analysis of Yelp reviews to categorize customer satisfaction levels and behavior types.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/movie-projector.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/Netflix-Movies-and-TV-shows-Analysis"><b>Netflix Exploratory Analysis</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/Netflix-Movies-and-TV-shows-Analysis?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      Data visualization and analysis of the Netflix catalog, uncovering historical patterns in content releases, ratings, and genre trends.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/conference-call.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/Employee-Attrition-Analysis-and-Prediction"><b>Employee Attrition Analysis</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/Employee-Attrition-Analysis-and-Prediction?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      Statistical analysis and predictive models identifying the core drivers behind workforce attrition and employee retention.
+    </td>
+  </tr>
+</table>
+
+### 💻 Web Applications & Utilities
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/home.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/findmyroomie"><b>FindMyRoomie</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/findmyroomie?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      A web application designed to help university students search for and connect with compatible roommates.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/shield.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/sachcheck"><b>SachCheck Fact-Checking</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/sachcheck?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      A fact-checking and truth-verification utility helping users evaluate the reliability of news and claims.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/domain.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/personal-site"><b>Personal Portfolio Site</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/personal-site?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      A responsive, clean personal website detailing my projects, skills, professional experience, and achievements.
+    </td>
+  </tr>
+</table>
 
 ---
 
