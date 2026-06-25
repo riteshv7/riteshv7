@@ -4,10 +4,6 @@
 
 </div>
 
-<div align="center">
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=riteshv7&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
 </div>
 
 ## 🚀 About Me
