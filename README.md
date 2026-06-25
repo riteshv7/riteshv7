@@ -65,26 +65,54 @@ class DataAnalyst:
 
 ## 🛠️ Tech Stack & Skills
 
-### 🐍 Languages & Core Tools
+### 🌐 Frontend - Web & Cross-Platform
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,jupyter,vscode&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,flutter,dart&theme=dark&perline=11" />
   </a>
 </p>
 
-### 📊 Data Analysis & Visualization
+### ⚙️ Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask,java,spring,cpp,c&theme=dark&perline=9" />
+  </a>
 </p>
 
-### 🧠 Machine Learning & Deep Learning
+### 🗄️ Databases & ORMs
 <p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma,supabase&theme=dark&perline=5" />
+  </a>
+</p>
+
+### ☁️ Cloud & Infrastructure
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,cloudflare&theme=dark&perline=6" />
+  </a>
+</p>
+
+### 🔄 DevOps & CI/CD
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab&theme=dark&perline=4" />
+  </a>
+</p>
+
+### 🧠 AI & Advanced Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+### 🛠️ Development Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash&theme=dark&perline=6" />
+  </a>
 </p>
 
 ---
