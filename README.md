@@ -223,6 +223,18 @@ class DataAnalyst:
 ### 💻 Web Applications & Utilities
 <table>
   <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/bread.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/bread-tycoon-timer-extension"><b>🍞 Bread Tycoon Timer</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="chrome extension" />
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/bread-tycoon-timer-extension?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      Chrome extension (Manifest V3) with a side panel UI that tracks cooldown timers for Bread Tycoon — ads, yeast, discounts & shields — with persistent alarms and sound notifications.
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/home.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/findmyroomie"><b>FindMyRoomie</b></a>
