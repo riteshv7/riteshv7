@@ -68,14 +68,14 @@ class DataAnalyst:
 ### 🌐 Frontend - Web & Cross-Platform
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,flutter,dart&theme=dark&perline=11" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,vue,tailwind,bootstrap,flutter,dart&theme=dark&perline=12" />
   </a>
 </p>
 
 ### ⚙️ Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask,java,spring,cpp,c&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask,fastapi,java,spring,cpp,c&theme=dark&perline=10" />
   </a>
 </p>
 
@@ -106,6 +106,17 @@ class DataAnalyst:
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+### 📈 Data Engineering & Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ### 🛠️ Development Tools
