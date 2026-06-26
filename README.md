@@ -148,8 +148,15 @@ class DataScientist:
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riteshv7&theme=tokyonight&utcOffset=-4" />
 </div>
 
+---
 
+## 🏆 GitHub Trophies
 
+<div align="center">
+  <img src="https://gh-trophy.cdnsoft.net/?username=riteshv7&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" width="100%" alt="Trophy" />
+</div>
+
+---
 ## 🚀 Open Source Projects
 
 ### 🧠 Machine Learning & AI
