@@ -75,7 +75,7 @@ class DataAnalyst:
 ### ⚙️ Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask,fastapi,java,spring,cpp,c&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask,fastapi,java,spring,cpp,c,r,arduino&theme=dark&perline=12" />
   </a>
 </p>
 
@@ -117,6 +117,9 @@ class DataAnalyst:
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shiny-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blynk-04DE8F?style=for-the-badge&logo=blynk&logoColor=white" />
 </p>
 
 ### 🛠️ Development Tools
@@ -160,7 +163,7 @@ class DataAnalyst:
 ### 🧠 Machine Learning & AI
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/brain.png" width="50" height="50" /></td>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/brain.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/Fake-News-Detection-using-Recurrent-Neural-Networks-RNN-"><b>Fake News RNN Detection</b></a>
       &nbsp;&nbsp;
@@ -170,7 +173,7 @@ class DataAnalyst:
     </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/scan-stock.png" width="50" height="50" /></td>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/scan-stock.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/Optical-Character-Recognition-and-Text-to-Audio-Converter"><b>OCR & Text-to-Audio Converter</b></a>
       &nbsp;&nbsp;
@@ -187,6 +190,36 @@ class DataAnalyst:
       <img src="https://img.shields.io/github/stars/riteshv7/Time-Series-Analysis-and-Predictive-Modeling-for-Baseball-Analytics-?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
       <br />
       Time series forecasting and predictive models applied to baseball metrics to predict player and team performances.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/artificial-intelligence.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/Analyzing-University-Guidelines-on-generative-AI"><b>GenAI University Policy Analysis</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/Analyzing-University-Guidelines-on-generative-AI?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      Text Mining and NLP analysis investigating global university policies and strategic stances on generative AI integration.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/line-chart.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/Prediction-using-Supervised-ML"><b>Student Performance Regression</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/Prediction-using-Supervised-ML?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      Regression-based machine learning model predicting student exam scores based on study hours, featuring statistical performance metrics.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/scatter-plot.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/Prediction-using-Unsupervised-ML"><b>Iris Flower K-Means Clustering</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/Prediction-using-Unsupervised-ML?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      Unsupervised K-Means clustering application grouping iris flower species based on floral dimensions, optimized via the Elbow Method.
     </td>
   </tr>
 </table>
@@ -257,6 +290,36 @@ class DataAnalyst:
       Statistical analysis and predictive models identifying the core drivers behind workforce attrition and employee retention.
     </td>
   </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/stethoscope.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/Healthcare-Cost-Analysis"><b>Healthcare Cost R-Shiny App</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/Healthcare-Cost-Analysis?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      Interactive R Shiny web application analyzing HMO data, featuring multivariate visualizations and predictive cost classification.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/microsoft-excel-2019.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/Data-Science-Job-Analysis-Using-Excel"><b>Excel Salary Analysis & Dashboard</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/Data-Science-Job-Analysis-Using-Excel?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      End-to-end Excel analytics project utilizing Power Query ETL, DAX relational modeling, and interactive map charts to profile data science salaries.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/shopping-cart.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/Exploratory-Data-Analysis---Retail"><b>Retail Superstore EDA</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/Exploratory-Data-Analysis---Retail?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      Retail business intelligence analysis on superstore transaction history to isolate margin leaks and optimize discounting strategies.
+    </td>
+  </tr>
 </table>
 
 ### 💻 Web Applications & Utilities
@@ -301,6 +364,16 @@ class DataAnalyst:
       <img src="https://img.shields.io/github/stars/riteshv7/personal-site?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
       <br />
       A responsive, clean personal website detailing my projects, skills, professional experience, and achievements.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/smart-home.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/smart-home-automation"><b>Smart Home IoT System</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/smart-home-automation?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      C++ NodeMCU ESP8266 smart home appliance controller integrated with gas leakage alarms and an independent RFID-secured servo door lock.
     </td>
   </tr>
 </table>
