@@ -382,11 +382,11 @@ class DataScientist:
   <tr>
     <td align="center" width="90"><img src="https://img.icons8.com/color/94/cricket.png" width="50" height="50" /></td>
     <td>
-      <a href="https://github.com/riteshv7/cricket-score-widget"><b>Maidan — Live Cricket Widget</b></a>
+      <a href="https://github.com/riteshv7/Maidan"><b>Maidan — Live Cricket Widget</b></a>
       &nbsp;&nbsp;
       <img src="https://img.shields.io/badge/macOS-App-000000?style=flat-square&logo=apple&logoColor=white" alt="macos app" />
       &nbsp;
-      <img src="https://img.shields.io/github/stars/riteshv7/cricket-score-widget?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <img src="https://img.shields.io/github/stars/riteshv7/Maidan?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
       <br />
       Premium native macOS menu bar agent displaying real-time scores, win probability charts, live crease statistics (batters/bowlers), custom notifications, and sleep-aware adaptive polling with zero dock clutter.
     </td>
