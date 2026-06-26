@@ -169,7 +169,7 @@ class DataAnalyst:
     </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/baseball.png" width="50" height="50" /></td>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/baseball.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/Time-Series-Analysis-and-Predictive-Modeling-for-Baseball-Analytics-"><b>Baseball Analytics & Prediction</b></a>
       &nbsp;&nbsp;
@@ -227,7 +227,7 @@ class DataAnalyst:
     </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/movie-projector.png" width="50" height="50" /></td>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/movie-projector.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/Netflix-Movies-and-TV-shows-Analysis"><b>Netflix Exploratory Analysis</b></a>
       &nbsp;&nbsp;
@@ -251,7 +251,7 @@ class DataAnalyst:
 ### 💻 Web Applications & Utilities
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/bread.png" width="50" height="50" /></td>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/bread.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/bread-tycoon-timer-extension"><b>🍞 Bread Tycoon Timer</b></a>
       &nbsp;&nbsp;
