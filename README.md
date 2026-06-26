@@ -183,7 +183,7 @@ class DataAnalyst:
 ### ⚙️ Data Engineering & Big Data
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/database.png" width="50" height="50" /></td>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/database.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/ETL-Pipeline-for-Analysis-of-Tokyo-Olympic-Data"><b>ETL Pipeline: Tokyo Olympics</b></a>
       &nbsp;&nbsp;
@@ -193,7 +193,7 @@ class DataAnalyst:
     </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/data-configuration.png" width="50" height="50" /></td>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/fire-element.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/Online-Shopper-Behavior-Analysis-and-Prediction-using-PySpark"><b>E-Commerce Analytics with PySpark</b></a>
       &nbsp;&nbsp;
@@ -207,7 +207,7 @@ class DataAnalyst:
 ### 📊 Data Science & BI
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/combo-chart.png" width="50" height="50" /></td>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/airbnb.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/Airbnb-Analytics-Dashboard-using-Tableau-"><b>Airbnb Tableau Dashboard</b></a>
       &nbsp;&nbsp;
@@ -217,7 +217,7 @@ class DataAnalyst:
     </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/speech-bubble.png" width="50" height="50" /></td>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/yelp.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/Yelp-Review-Analytics-Audience-Segmentation-"><b>Yelp Review Analytics & Segmentation</b></a>
       &nbsp;&nbsp;
@@ -227,7 +227,7 @@ class DataAnalyst:
     </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://img.icons8.com/color/94/movie-projector.png" width="50" height="50" /></td>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/netflix.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/Netflix-Movies-and-TV-shows-Analysis"><b>Netflix Exploratory Analysis</b></a>
       &nbsp;&nbsp;
@@ -237,7 +237,7 @@ class DataAnalyst:
     </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/conference-call.png" width="50" height="50" /></td>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/conference-call.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/Employee-Attrition-Analysis-and-Prediction"><b>Employee Attrition Analysis</b></a>
       &nbsp;&nbsp;
