@@ -10,7 +10,7 @@
 
 ```python
 # Python implementation of my professional profile
-class DataAnalyst:
+class DataScientist:
     def __init__(self):
         self.name = "Ritesh Verma"
         self.role = "Data Scientist | Data Engineer | AI Tinkerer"
