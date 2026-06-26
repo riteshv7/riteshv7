@@ -134,26 +134,18 @@ class DataScientist:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=riteshv7&show_icons=true&count_private=true&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&bg_color=0d1117" alt="Ritesh's github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshv7&theme=react&hide_border=true&stroke=0000&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="Ritesh's streak stats"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=riteshv7&show_icons=true&count_private=true&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Ritesh's github stats" /> 
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=riteshv7&theme=react&hide_border=true&stroke=0000&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7&cache_seconds=1800" alt="Ritesh's streak stats"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riteshv7&theme=tokyonight" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riteshv7&theme=tokyonight" />
+  <img width="49%" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" />
+  <img width="49%" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" />
 </div>
 
 <div align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=riteshv7&theme=tokyonight" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riteshv7&theme=tokyonight&utcOffset=-4" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=riteshv7&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" width="100%" alt="Trophy" />
+  <img width="49%" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img width="49%" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </div>
 
 ---
