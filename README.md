@@ -325,6 +325,18 @@ class DataScientist:
 ### 💻 Web Applications & Utilities
 <table>
   <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/idea.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/QuickStash"><b>QuickStash Focus Board</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="chrome extension" />
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/QuickStash?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      A lightweight, distraction-free Chrome extension for capturing ideas instantly and managing daily tasks in a beautiful new tab dashboard.
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="90"><img src="https://img.icons8.com/color/94/bread.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/bread-tycoon-timer-extension"><b>🍞 Bread Tycoon Timer</b></a>
