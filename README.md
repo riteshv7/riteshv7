@@ -75,7 +75,7 @@ class DataAnalyst:
 ### ⚙️ Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask,fastapi,java,spring,cpp,c,r,arduino&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask,fastapi,java,spring,cpp,c,r,arduino,swift&theme=dark&perline=13" />
   </a>
 </p>
 
@@ -374,6 +374,18 @@ class DataAnalyst:
       <img src="https://img.shields.io/github/stars/riteshv7/smart-home-automation?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
       <br />
       C++ NodeMCU ESP8266 smart home appliance controller integrated with gas leakage alarms and an independent RFID-secured servo door lock.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/cricket.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/cricket-score-widget"><b>Cricket Menu Bar Widget</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/macOS-App-000000?style=flat-square&logo=apple&logoColor=white" alt="macos app" />
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/cricket-score-widget?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      Native macOS menu bar widget displaying real-time live cricket scores, overs, and run-rate requirements with zero dock clutter.
     </td>
   </tr>
 </table>
