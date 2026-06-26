@@ -263,7 +263,7 @@ class DataAnalyst:
     </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/home.png" width="50" height="50" /></td>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/home.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/findmyroomie"><b>FindMyRoomie</b></a>
       &nbsp;&nbsp;
@@ -273,7 +273,7 @@ class DataAnalyst:
     </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/shield.png" width="50" height="50" /></td>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/shield.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/sachcheck"><b>SachCheck Fact-Checking</b></a>
       &nbsp;&nbsp;
@@ -283,7 +283,7 @@ class DataAnalyst:
     </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://img.icons8.com/3d-fluency/94/domain.png" width="50" height="50" /></td>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/domain.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/personal-site"><b>Personal Portfolio Site</b></a>
       &nbsp;&nbsp;
