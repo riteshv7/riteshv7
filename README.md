@@ -68,7 +68,7 @@ class DataAnalyst:
 ### 🌐 Frontend - Web & Cross-Platform
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,vue,tailwind,bootstrap,flutter,dart&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,vue,tailwind,bootstrap,flutter,dart,threejs&theme=dark&perline=13" />
   </a>
 </p>
 
@@ -96,7 +96,7 @@ class DataAnalyst:
 ### 🔄 DevOps & CI/CD
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab,vitest&theme=dark&perline=5" />
   </a>
 </p>
 
