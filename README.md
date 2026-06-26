@@ -18,25 +18,25 @@ class DataScientist:
         self.location = "Syracuse, NY"
         
         self.skills = {
-            "programming": ["Python", "SQL (PostgreSQL, MySQL, SQLite)"],
+            "programming": ["Python", "R", "SQL", "C++"],
             "data_science": ["Pandas", "NumPy", "Scikit-Learn", "Matplotlib", "Seaborn"],
-            "bi_tools": ["Tableau", "MS Excel"],
-            "machine_learning": ["RNNs", "LSTM", "NLP", "TensorFlow", "Keras"],
-            "data_engineering": ["ETL Pipelines", "Data Warehousing", "Data Extraction"]
+            "machine_learning": ["TensorFlow", "Keras", "PySpark", "NLP", "Computer Vision"],
+            "bi_and_analytics": ["Tableau", "R Shiny", "MS Excel", "Power Query"],
+            "web_and_cloud": ["HTML/CSS/JS", "Next.js", "Docker", "AWS", "GitHub Actions"]
         }
         
         self.current_focus = [
-            "Designing robust ETL pipelines for big data analytics",
-            "Building interactive, insight-driven BI dashboards",
-            "Applying Deep Learning (RNNs) to Natural Language Processing"
+            "Building robust end-to-end Machine Learning pipelines and applications",
+            "Developing interactive business intelligence and R-Shiny dashboards",
+            "Exploring Advanced NLP, Computer Vision, and Time Series Forecasting"
         ]
         
-        self.interests = ["Data Storytelling", "Predictive Modeling", "Cloud Data Architectures"]
+        self.interests = ["AI Research", "Predictive Modeling", "Data Storytelling", "IoT/Smart Automation"]
         
     def reach_me(self):
         return {
             "linkedin": "linkedin.com/in/riteshv7",
-            "twitter": "twitter.com/riteshverma312",
+            "twitter/x": "x.com/riteshv7",
             "github": "github.com/riteshv7"
         }
 ```
