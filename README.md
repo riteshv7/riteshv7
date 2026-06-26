@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=940&lines=Data+Analyst+%7C+3%2B+Years+Experience;Specialized+in+SQL%2C+Python+%26+Tableau;Building+ETL+Pipelines+%26+BI+Dashboards;Extracting+Insights+from+Complex+Data;Machine+Learning+%26+NLP+Practitioner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=940&lines=Data+Scientist+%7C+3%2B+Years+Experience;Specialized+in+SQL%2C+Python+%26+Tableau;Building+ETL+Pipelines+%26+BI+Dashboards;Extracting+Insights+from+Complex+Data;Machine+Learning+%26+NLP+Practitioner" alt="Typing SVG" />
 
 </div>
 
