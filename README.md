@@ -380,7 +380,7 @@ class DataScientist:
     </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://img.icons8.com/color/94/cricket.png" width="50" height="50" /></td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/riteshv7/Maidan/main/assets/MaidanAppIcon.png" width="50" height="50" style="border-radius: 10px;" /></td>
     <td>
       <a href="https://github.com/riteshv7/Maidan"><b>Maidan — Live Cricket Widget</b></a>
       &nbsp;&nbsp;
