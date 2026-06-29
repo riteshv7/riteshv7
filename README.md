@@ -6,25 +6,14 @@
 
 
 
-## 🚀 About Me
-
 ```python
 # Python implementation of my professional profile
 class DataScientist:
     def __init__(self):
         self.name = "Ritesh Verma"
         self.role = "Data Scientist | Data Engineer | AI Tinkerer"
-        self.experience = "3+ Years"
-        self.location = "Syracuse, NY"
-        
-        self.skills = {
-            "programming": ["Python", "R", "SQL", "C++"],
-            "data_science": ["Pandas", "NumPy", "Scikit-Learn", "Matplotlib", "Seaborn"],
-            "machine_learning": ["TensorFlow", "Keras", "PySpark", "NLP", "Computer Vision"],
-            "bi_and_analytics": ["Tableau", "R Shiny", "MS Excel", "Power Query"],
-            "web_and_cloud": ["HTML/CSS/JS", "Next.js", "Docker", "AWS", "GitHub Actions"]
         }
-        
+
         self.current_focus = [
             "Building robust end-to-end Machine Learning pipelines and applications",
             "Developing interactive business intelligence and R-Shiny dashboards",
