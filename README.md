@@ -123,7 +123,7 @@ class DataScientist:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=riteshv7&show_icons=true&count_private=true&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Ritesh's github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-riteshverma312s-projects.vercel.app/api?username=riteshv7&show_icons=true&count_private=true&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Ritesh's github stats" /> 
   <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=riteshv7&theme=react&hide_border=true&stroke=0000&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7&cache_seconds=1800" alt="Ritesh's streak stats"/>
 </div>
 
