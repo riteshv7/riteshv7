@@ -4,123 +4,7 @@
 
 </div>
 
-
-
-```python
-# Python implementation of my professional profile
-class DataScientist:
-    def __init__(self):
-        self.name = "Ritesh Verma"
-        self.role = "Data Scientist | Data Engineer | AI Tinkerer"
-        }
-
-        self.current_focus = [
-            "Building robust end-to-end Machine Learning pipelines and applications",
-            "Developing interactive business intelligence and R-Shiny dashboards",
-            "Exploring Advanced NLP, Computer Vision, and Time Series Forecasting"
-        ]
-        
-        self.interests = ["AI Research", "Predictive Modeling", "Data Storytelling", "IoT/Smart Automation"]
-        
-    def reach_me(self):
-        return {
-            "linkedin": "linkedin.com/in/riteshv7",
-            "twitter/x": "x.com/riteshv7",
-            "github": "github.com/riteshv7"
-        }
-```
-
----
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshv7&custom_title=Ritesh's%20GitHub%20Activity%20Graph%20(3D%20Style)&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area_color=2E9EF7&title_color=FFFFFF&area=true&hide_border=false&radius=16" alt="3D Activity Graph" />
-</div>
-
----
-
-## 🐍 Animated Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riteshv7/riteshv7/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riteshv7/riteshv7/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/riteshv7/riteshv7/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 🌐 Frontend - Web & Cross-Platform
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,vue,tailwind,bootstrap,flutter,dart,threejs&theme=dark&perline=13" />
-  </a>
-</p>
-
-### ⚙️ Backend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask,fastapi,java,spring,cpp,c,r,arduino,swift&theme=dark&perline=13" />
-  </a>
-</p>
-
-### 🗄️ Databases & ORMs
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma,supabase&theme=dark&perline=5" />
-  </a>
-</p>
-
-### ☁️ Cloud & Infrastructure
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,cloudflare&theme=dark&perline=6" />
-  </a>
-</p>
-
-### 🔄 DevOps & CI/CD
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab,vitest&theme=dark&perline=5" />
-  </a>
-</p>
-
-### 🧠 AI & Advanced Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-### 📈 Data Engineering & Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shiny-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blynk-04DE8F?style=for-the-badge&logo=blynk&logoColor=white" />
-</p>
-
-### 🛠️ Development Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash&theme=dark&perline=6" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-riteshverma312s-projects.vercel.app/api?username=riteshv7&show_icons=true&count_private=true&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Ritesh's github stats" /> 
@@ -138,9 +22,9 @@ class DataScientist:
 </div>
 
 ---
-## 🚀 Open Source Projects
+## Open Source Projects
 
-### 🧠 Machine Learning & AI
+### Machine Learning & AI
 <table>
   <tr>
     <td align="center" width="90"><img src="https://img.icons8.com/color/94/brain.png" width="50" height="50" /></td>
@@ -204,7 +88,7 @@ class DataScientist:
   </tr>
 </table>
 
-### ⚙️ Data Engineering & Big Data
+### Data Engineering & Big Data
 <table>
   <tr>
     <td align="center" width="90"><img src="https://img.icons8.com/color/94/database.png" width="50" height="50" /></td>
@@ -228,7 +112,7 @@ class DataScientist:
   </tr>
 </table>
 
-### 📊 Data Science & BI
+### Data Science & BI
 <table>
   <tr>
     <td align="center" width="90"><img src="https://img.icons8.com/color/94/airbnb.png" width="50" height="50" /></td>
@@ -302,7 +186,7 @@ class DataScientist:
   </tr>
 </table>
 
-### 💻 Web Applications & Utilities
+### Web Applications & Utilities
 <table>
   <tr>
     <td align="center" width="90"><img src="https://img.icons8.com/color/94/idea.png" width="50" height="50" /></td>
@@ -382,26 +266,17 @@ class DataScientist:
   </tr>
 </table>
 
----
-
-## 💡 Dev Quote
+## Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </div>
 
----
-
 <div align="center">
 
-### 🤝 Let's Connect!
+### Let's Connect!
 
 <a href="https://www.linkedin.com/in/riteshv7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
 <a href="https://twitter.com/riteshverma312"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter" /></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" /></a>
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
-
-</div>
