@@ -27,6 +27,16 @@
 ### Machine Learning & AI
 <table>
   <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/94/cricket.png" width="50" height="50" /></td>
+    <td>
+      <a href="https://github.com/riteshv7/Project-x"><b>Project-x: IPL Win Predictor</b></a>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/riteshv7/Project-x?style=flat-square&label=Stars&color=2E9EF7" alt="stars" />
+      <br />
+      A logistic regression machine learning model predicting IPL cricket match win probabilities using ball-by-ball historical data.
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="90"><img src="https://img.icons8.com/color/94/brain.png" width="50" height="50" /></td>
     <td>
       <a href="https://github.com/riteshv7/Fake-News-Detection-using-Recurrent-Neural-Networks-RNN-"><b>Fake News RNN Detection</b></a>
